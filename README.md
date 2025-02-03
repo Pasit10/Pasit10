@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pasit Malarat</h1>
-<h3 align="center"> am a Computer Science student at King Mongkut's Institute of Technology Ladkrabang (KMITL). I am a passionate backend and full-stack developer from Thailand.</h3>
+<h3 align="center">I am a Computer Science student at King Mongkut's Institute of Technology Ladkrabang (KMITL). I am a passionate backend and full-stack developer from Thailand.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
