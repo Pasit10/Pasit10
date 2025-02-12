@@ -1,5 +1,5 @@
-<h1>Hi 👋, I am a Computer Science student at King Mongkut's Institute of Technology Ladkrabang (KMITL)</h1>
-<p>A passionate backend developer and full stack deveoper from thailand</p>
+<h1 align="center">Hi 👋, I'm Pasit Malarat</h1>
+<h3 align="center">I am a Computer Science student at King Mongkut's Institute of Technology Ladkrabang (KMITL).<br>I am a passionate backend and full-stack developer from Thailand.</h3>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
